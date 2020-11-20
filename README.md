@@ -1,4 +1,4 @@
-# IMDProjeto
+# IMDProjeto - Pet Fera
 
 Este repositório é destinado ao Projeto do Curso de Programação do Instituto Metrópole Digital - IMD/UFRN.
 
